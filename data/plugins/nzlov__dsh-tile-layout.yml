@@ -1,0 +1,7 @@
+url: https://github.com/nzlov/dsh-tile-layout
+name: nzlov/dsh-tile-layout
+category: ui
+icon: https://raw.githubusercontent.com/awesome-dsh-plugin/awesome-dsh-plugin/main/data/icons/nzlov__dsh-tile-layout.png
+description:
+  en: Native session-tiling panel for DSH Web, with independently resizable cards, drag-and-drop ordering, mobile swiping, and browser-local layout persistence while retaining native conversation controls, plugins, and right sidebars.
+  zh: DSH Web 原生会话平铺面板：支持卡片独立调宽、拖拽排序、移动端滑动切换和浏览器本地布局保存，保留原生对话控件、插件与右侧栏。
